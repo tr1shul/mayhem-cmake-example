@@ -1,4 +1,4 @@
-me: Mayhem
+Name: Mayhem
 on:
   push:
   pull_request:
